@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require "active_support"
+require "benchmark"
 require "yabeda"
 require "rabbit_messaging"
 
