@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     yabeda-rabbit_messaging (0.0.1)
-      rabbit_messaging
+      rabbit_messaging (~> 0.6)
       yabeda (~> 0.8)
 
 GEM
