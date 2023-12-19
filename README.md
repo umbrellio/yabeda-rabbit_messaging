@@ -9,9 +9,8 @@ Works through [Yabeda Framework](https://github.com/yabeda-rb).
 ```ruby
 gem "rabbit_messaging"
 ...
+gem "yabeda"
 gem "yabeda-rabbit_messaging"
-# Then add monitoring system adapter, e.g.:
-# gem "yabeda-prometheus"
 ```
 
 And then execute:
