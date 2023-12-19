@@ -8,8 +8,8 @@ Works through [Yabeda Framework](https://github.com/yabeda-rb).
 
 ```ruby
 gem "rabbit_messaging"
+gem "table_sync"
 ...
-gem "yabeda"
 gem "yabeda-rabbit_messaging"
 ```
 
