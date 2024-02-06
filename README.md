@@ -6,6 +6,8 @@ Works through [Yabeda Framework](https://github.com/yabeda-rb).
 
 ## Installation
 
+Put gem in your Gemfile after `rabbit_messaging` gem.
+
 ```ruby
 gem "rabbit_messaging"
 gem "table_sync"
@@ -30,7 +32,7 @@ Metrics representing state of TableSync receiving jobs processing:
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/umbrellio/table_sync.
+Bug reports and pull requests are welcome on GitHub at https://github.com/umbrellio/yabeda-rabbit_messaging.
 
 ## License
 

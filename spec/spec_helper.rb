@@ -4,6 +4,8 @@ require "pry"
 
 require "yabeda/rabbit_messaging"
 
+Yabeda.configure!
+
 Dir[File.join(__dir__, "support/**/*.rb")].sort.each { |f| require(f) }
 
 RSpec.configure do |config|
