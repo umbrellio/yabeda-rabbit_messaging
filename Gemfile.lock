@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    yabeda-rabbit_messaging (0.0.1)
+    yabeda-rabbit_messaging (0.0.2)
       rabbit_messaging (~> 0.6)
       yabeda (~> 0.8)
 
@@ -194,7 +194,7 @@ GEM
       thor (~> 1.0, >= 1.2.2)
       zeitwerk (~> 2.6)
     rainbow (3.1.1)
-    rake (13.1.0)
+    rake (12.3.3)
     rbtree (0.4.6)
     rdoc (6.6.2)
       psych (>= 4.0.0)
@@ -253,15 +253,15 @@ GEM
     ruby-next-core (1.0.1)
     ruby-progressbar (1.13.0)
     ruby2_keywords (0.0.5)
-    serverengine (2.0.7)
+    serverengine (2.1.1)
       sigdump (~> 0.2.2)
     set (1.1.0)
     sigdump (0.2.5)
-    sneakers (2.11.0)
-      bunny (~> 2.12)
+    sneakers (2.12.0)
+      bunny (~> 2.14)
       concurrent-ruby (~> 1.0)
-      rake
-      serverengine (~> 2.0.5)
+      rake (~> 12.3)
+      serverengine (~> 2.1.0)
       thor
     sorted_set (1.0.3)
       rbtree
