@@ -5,8 +5,8 @@ require_relative "lib/yabeda/rabbit_messaging/version"
 Gem::Specification.new do |spec|
   spec.name = "yabeda-rabbit_messaging"
   spec.version = Yabeda::RabbitMessaging::VERSION
-  spec.authors = ["Stepan Kirushkin"]
-  spec.email = ["stepan.kirushkin@gmail.com"]
+  spec.authors = ["Team Umbrellio"]
+  spec.email = ["oss@umbrellio.biz"]
 
   spec.summary = "Yabeda plugin for rabbit_messaging gem."
   spec.description = "Easy collect your TableSync metrics."
