@@ -22,6 +22,6 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
   spec.required_ruby_version = ">= 2.5.0"
 
-  spec.add_dependency "rabbit_messaging", "~> 0.6"
+  spec.add_dependency "rabbit_messaging"
   spec.add_dependency "yabeda", "~> 0.8"
 end

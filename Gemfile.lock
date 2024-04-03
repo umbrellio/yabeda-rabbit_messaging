@@ -1,8 +1,8 @@
 PATH
   remote: .
   specs:
-    yabeda-rabbit_messaging (0.0.2)
-      rabbit_messaging (~> 0.6)
+    yabeda-rabbit_messaging (0.0.3)
+      rabbit_messaging
       yabeda (~> 0.8)
 
 GEM
@@ -286,6 +286,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-22
+  arm64-darwin-23
   x86_64-linux
 
 DEPENDENCIES
